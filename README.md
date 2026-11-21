@@ -2,7 +2,7 @@
 
 A clean, interactive tracker for the major Marvel Cinematic Universe releases. Keep track of what you have watched, follow your progress, and explore the MCU in either release or chronological order.
 
-🔗 [Visit the MCU Watchlist](https://dipdagod.github.io/mcu-watchlist/)
+🔗 [Visit the MCU Watchlist](https://dhairyakhetan.github.io/mcu-watchlist/)
 
 ## Features
 
